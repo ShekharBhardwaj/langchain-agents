@@ -14,7 +14,9 @@ dependencies = [
     "langchain-anthropic>=1.7.6",
     "langchain-openai>=1.7.2",
     "langchain-openrouter>=0.2.9",
+    "langchain-tavily>=0.2.18",
     "python-dotenv>=1.2.4",
+    "tavily-python>=0.8.5",
 ]
 
 [project.scripts]
