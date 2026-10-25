@@ -2,7 +2,6 @@ from dotenv import load_dotenv
 from langchain_core.prompts import PromptTemplate
 from langchain_anthropic import ChatAnthropic
 
-
 load_dotenv()
 
 
